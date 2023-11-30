@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+thought: nekosan thank you
 ---
 
