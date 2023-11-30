@@ -1,0 +1,4 @@
+---
+thought: nekosan thank you
+---
+
